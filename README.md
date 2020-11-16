@@ -1,4 +1,4 @@
-## [Latest Release](http://renessans.bz/)
+## [Latest Release]
 
 # Destroy Windows 10 Spying
 
@@ -12,10 +12,6 @@
 - Support Windows 7/8/8.1/10 and Server 2008-2012 R2
 - Remove Office 2016 telemetry
 - Open Source!
-
-### Copyright 2018 RENESSANS LLC
-
-[Twitter @renessans_bz](https://twitter.com/renessans_bz)
 
 ### License
 
